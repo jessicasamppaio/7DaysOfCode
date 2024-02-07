@@ -14,4 +14,4 @@ Desafio dia 1: Reescrever um código JavaScript para comparar variáveis de dife
 
 Atenciosamente,
 
-[Seu Nome]
+Jéssica
