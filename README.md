@@ -13,7 +13,7 @@ Este repositório foi criado para acompanhar meu progresso e compartilhar o que 
 - [Dia 1: Operações Booleanas](Desafio%201/script.js)
 - [Dia 2: Variáveis](Desafio%202/script2.js)
 - [Dia 3: Fluxo de decisão](Desafio%203/desafio-3.js)
-- [Dia 4: Loops e randomização](dia4.md)
+- [Dia 4: Loops e randomização](Desafio%204/desafio-4.js)
 - [Dia 5: Arrays e coleções](dia5.md)
 - [Dia 6: Remoção e Arrays](dia6.md)
 - [Dia 7: Funções em Javascript](dia7.md)
