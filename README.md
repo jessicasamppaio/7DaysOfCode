@@ -4,7 +4,7 @@
 
 ## Sobre o Desafio
 
-O #7DaysOfCode é um desafio proposto pela [Rafaella Ballerini](https://github.com/rafaballerini) e instrutoras da [Alura](https://www.alura.com.br/). Consiste em dedicar pelo menos 1 hora por dia durante 7 dias para codificar e reforçar meus conhecimentos em Lógica de programação.
+O #7DaysOfCode é um desafio proposto pela [Rafaella Ballerini](https://github.com/rafaballerini) instrutora da [Alura](https://www.alura.com.br/). Consiste em dedicar pelo menos 1 hora por dia durante 7 dias para codificar e reforçar meus conhecimentos em Lógica de programação.
 
 Este repositório foi criado para acompanhar meu progresso e compartilhar o que aprendi ao longo do desafio.
 
