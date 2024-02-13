@@ -20,7 +20,6 @@ Este repositório foi criado para acompanhar meu progresso e compartilhar o que 
 
 ## Inspiração e Recursos
 
-- [Repositório oficial do #7DaysOfCode](https://github.com/rafaballerini/7DaysOfCode)
 - [Site da Alura](https://www.alura.com.br/)
 - [Perfil da Rafaella Ballerini no GitHub](https://github.com/rafaballerini)
 
