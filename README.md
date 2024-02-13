@@ -10,7 +10,7 @@ Este repositório foi criado para acompanhar meu progresso e compartilhar o que 
 
 ## Meu Progresso
 
-- [Dia 1: Operações Booleanas](Desafio 1.md)
+- [Dia 1: Operações Booleanas](Desafio1.md)
 - [Dia 2: Variáveis](dia2.md)
 - [Dia 3: Fluxo de decisão](dia3.md)
 - [Dia 4: Loops e randomização](dia4.md)
