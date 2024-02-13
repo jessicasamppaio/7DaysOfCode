@@ -11,7 +11,7 @@ Este repositório foi criado para acompanhar meu progresso e compartilhar o que 
 ## Meu Progresso
 
 - [Dia 1: Operações Booleanas](Desafio%201/script.js)
-- [Dia 2: Variáveis](dia2.md)
+- [Dia 2: Variáveis](Desafio%202/script2.js)
 - [Dia 3: Fluxo de decisão](dia3.md)
 - [Dia 4: Loops e randomização](dia4.md)
 - [Dia 5: Arrays e coleções](dia5.md)
