@@ -1,0 +1,2 @@
+O desafio do dia 6 consiste em fazer uma implementação no código do desafio 5,
+incrementando a função remover item no código.

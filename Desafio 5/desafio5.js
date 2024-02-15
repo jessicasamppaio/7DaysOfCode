@@ -7,12 +7,36 @@ const listaDeCompras = {
 
 function adicionarItem() {
     const item = prompt('Qual item deseja inserir?');
-    const categoria = prompt('A qual categoria esse item pertence? (frutas, laticínios, congelados, doces, outros)').toLowerCase();
+    const categoria = prompt('A qual categoria esse item pertence? (frutas, laticínios, congelados, outros)').toLowerCase();
 
     if (categoria in listaDeCompras) {
         listaDeCompras[categoria].push(item);
     } else {
         listaDeCompras.outros.push(item);
+    }
+}
+
+function removerItem(){
+    let itensLista = '';
+    for (const categoria in listaDeCompras){
+        listaDeCompras[categoria].forEach(item =>{
+            itensLista += item + '\n'
+        })
+    }
+
+    const itemRemocao = prompt('Itens da lista: \n' + itensLista + '\nQual item deseja remover?')
+    let encontrado = false;
+    for (const categoria in listaDeCompras){
+        const index = listaDeCompras[categoria].indexOf(itemRemocao)
+        if (index !== -1) {
+            listaDeCompras[categoria].splice(index, 1);
+            alert('Item removido: ' + itemParaRemover);
+            encontrado = true;
+            break;
+        }
+    }
+    if (!encontrado) {
+        alert('Não foi possível encontrar o item dentro da lista!');
     }
 }
 
